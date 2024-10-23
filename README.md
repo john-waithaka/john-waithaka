@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @john-waithaka
-- 👀 I’m interested in App Development
+- 👀 I’m interested in Web and App Development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Web apps Development
 - 📫 How to reach me johnwaruiwaithaka@gmail.com
