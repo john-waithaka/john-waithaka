@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @john-waithaka
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning and re-learning on back-end architecture
 - 💞️ I’m looking to collaborate on Web apps Development
 - 📫 How to reach me johnwaruiwaithaka@gmail.com
 - ⚡ Fun fact: once I start going, I don't stop!
